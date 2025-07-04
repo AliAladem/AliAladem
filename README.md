@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AliBonez
+- 👋 Hi, I’m @AliAladem
 - 👀 I’m interested in Gaming and coding
 - 🌱 I’m currently learning c++,python and Java.
 - 📫 How to reach me :
 - email : alialadem20@gmail.com
-- insta : ali_bonez
-- 😄 Pronouns:he/him
