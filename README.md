@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliAladem
-- 👀 I’m interested in Gaming and coding
-- 🌱 I’m currently learning c++,python and Java.
+- 👀 I’m interested in Gaming, coding, Designing.
+- 🌱 I’m Experienced C++, Flutter, Java, JS.
 - 📫 How to reach me :
 - email : alialadem20@gmail.com
